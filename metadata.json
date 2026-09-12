@@ -1,0 +1,10 @@
+{
+  "name": "Venture Support 24/7 Call",
+  "description": "Real-time voice companion powered by Gemini 3.1 with caller verification, audio visualization, and 24/7 intelligent assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
